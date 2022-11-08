@@ -3,3 +3,4 @@ secret_reddit.py
 .ipynb_checkpoints
 nb/.DS_Store
 nb/.ipynb_checkpoints
+__pycache__
